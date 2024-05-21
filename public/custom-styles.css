@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.bg-select-penjadwalan {
+    background-color: #000088 !important;
+    color: white !important;
+}
+
+.btn-logout {
+    background-color: #FF4646 !important;
+    color: white !important;
+}
+
+.btn-menuutama {
+    background-color: #576CBC !important;
+    color: white !important;
+}
+
+.btn-edit {
+    width: 200px;
+}
+
+.card-sidang-berlangsung {
+    background-color: #EBEBF6;
+}
+
+.table-header {
+    background-color: #DDE2F2 !important;
+}
+
+.text-login-blue {
+    color: #19376D !important;
+}
+
+.btn-primary-blue {
+    color: #000066 !important;
+}
+
+.hari-libur {
+    background-color: red !important;
+}
+
+.pilih-sidang {
+    background-color: blue !important;
+}
+
+.text-register-red {
+    color: #FF0000 !important;
+}
+
+
+.btn-nonaktif-periode {
+    background-color: #F88DAD !important;
+    color: white !important;
+}
+
+.btn-edit-periode {
+    background-color: #1e1eae !important;
+    color: white !important;
+}
+
+.btn-edit-datamajusidang {
+    background-color: #1e1eae !important;
+    color: white !important;
+}
+
+.btn-registermahasiswa {
+    color: #000088 !important;
+    font-weight: bold;
+    border-color: #000088;
+}
+
+.btn-registermahasiswa:hover {
+    color: white !important;
+    background-color: #000088 !important;
+    font-weight: bold;
+}
+
+.bg-pale-red {
+    background-color: #ffe4e4 !important;
+}
+
+.table-jadwal-kosong th:first-child,
+.table-jadwal-kosong td:first-child {
+    position: sticky;
+    left: 0;
+    background-color: white;
+}
+
+.big-checkbox {
+    width: 22px;
+    height: 22px;
+}
+
+@media screen and (min-width: 1200px) {
+    #layout-navbar {
+        display: none;
+    }
+}
